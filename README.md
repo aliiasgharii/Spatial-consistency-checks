@@ -47,6 +47,9 @@ Ali Asghari
 - ResearchGate: [Here](https://www.researchgate.net/profile/Ali-Asghari-10)
 - Linkedin: [Here](https://www.linkedin.com/in/aliiasgharii/)
 
+## License
+This project is licensed under the MIT License.
+
 ## Acknowledgments
 This project incorporates code from the following repos:
 - https://github.com/CGAL/cgal
