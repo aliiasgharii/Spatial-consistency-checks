@@ -39,7 +39,7 @@ This code was implemented with C++ programming language using Computational Geom
 
 ## Citation
 ```
-Asghari A, Kalantari M, Rajabifard A, Shin J. Developing an integrated approach to validate 3D ownership spaces in complex multi-storey buildings.  International Journal of Geographical Information Science. 2022;
+Asghari A, Kalantari M, Rajabifard A, Shin J. (2022) Developing an integrated approach to validate 3D ownership spaces in complex multi-storey buildings.  International Journal of Geographical Information Science. https://doi.org/10.1080/13658816.2022.2109159;
 ```
 ## Author
 Ali Asghari
